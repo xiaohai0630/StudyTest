@@ -15,7 +15,7 @@ public class MainTest {
 
         System.out.println("helloMaven");
 
-        Integer b = 0;
+        System.out.println("为了造冲突");
     }
 
 }
