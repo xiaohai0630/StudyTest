@@ -9,7 +9,9 @@ public class MainTest {
 
         System.out.println("<--新加的前面会有一行绿色");
 
-
+        Integer a = 20;
+        a++;
+        System.out.println(a);
 
         System.out.println("helloMaven");
     }
