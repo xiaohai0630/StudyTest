@@ -7,7 +7,7 @@ public class MainTest {
 
     public static void main(String[] args) {
 
-        System.out.println("<--新加的前面后一行绿色");
+        System.out.println("<--新加的前面会有一行绿色");
 
 
 
