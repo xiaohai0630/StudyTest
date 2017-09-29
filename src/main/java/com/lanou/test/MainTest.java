@@ -15,7 +15,7 @@ public class MainTest {
 
         System.out.println("helloMaven");
 
-        int c = 0;
+        String de = "怎么忘了怎么出现冲突了？？？";
 
         double b = 1.0;
     }
