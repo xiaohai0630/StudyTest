@@ -17,7 +17,7 @@ public class MainTest {
 
         String de = "怎么忘了怎么出现冲突了？？？";
 
-        System.out.println("为了造冲突");
+        double b = 1.0;
     }
 
 }
