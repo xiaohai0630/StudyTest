@@ -15,7 +15,7 @@ public class MainTest {
 
         System.out.println("helloMaven");
 
-        String de = "有不同的分支";
+        String de = "怎么忘了怎么出现冲突了？？？";
 
         System.out.println("为了造冲突");
     }
